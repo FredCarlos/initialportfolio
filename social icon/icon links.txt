@@ -1,0 +1,24 @@
+youtube icon = <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Md Tanvirul Haque - Flaticon</a>
+
+ig icon = <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Laisa Islam Ani - Flaticon</a>
+
+linkin = <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by vidyavidz - Flaticon</a>
+
+twitter = <a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by vidyavidz - Flaticon</a>
+
+github = <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Freepik - Flaticon</a>
+
+tag = <a href="https://www.flaticon.com/free-icons/attribute" title="attribute icons">Attribute icons created by Design Circle - Flaticon</a>
+
+
+python
+<a href="https://www.freepik.com">designed by Upklyak - Freepik.com</a>
+
+web dev
+<a href="https://www.freepik.com">designed by Rawpixel.com - Freepik.com</a>
+
+airplane
+<a href="https://www.freepik.com">designed by Pch.vector - Freepik.com</a>
+
+elex
+<a href="https://www.freepik.com">designed by Jcomp - Freepik.com</a>

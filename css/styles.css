@@ -1,0 +1,273 @@
+/*
+font-family: 'Architects Daughter', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+
+body {
+  background-color: #FFF7E9;
+  margin: 0;
+  
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  
+}
+h1 {
+  /*width: 15%;*/
+
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 7.5rem;
+}
+
+h1 {
+  /*width: 15%;*/
+
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 4rem;
+}
+h2 {
+  /*width: 15%;*/
+  margin: 0 auto 0 auto;
+  padding: 0;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Nunito', sans-serif;;
+}
+.python{
+  text-align: right;
+}
+.woods{
+  text-align: right;
+}
+/*hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #3f72af;
+  border-width: 15px;
+  width: 10%;
+  margin: 50px auto 50px auto;
+  
+}
+*/
+
+hr {
+  border: dotted #1746A2 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 30px auto;
+}
+/* DIVISIONS */
+.top-container{
+  background-color: #5F9DF7;
+  margin: 0;
+  position: relative;
+  width: auto; 
+}
+
+.middle-container {
+  background-color: #FFF7E9;
+  margin: 50px auto 50px auto;
+  line-height: 1.5;
+  
+}
+
+
+.skill-row {
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+
+}
+.contact-me{
+  background-color: #FFF7E9;
+  margin: 0;
+  padding: 30px;
+  
+}
+
+.bottom-container {
+  background-color: #FF731D;
+  
+  padding: 20px 0 20px;
+}
+
+/* TEXT AREA */
+.write-up {
+  text-align: left;
+  
+}
+
+.intro {
+  font-size: 1rem;
+}
+
+.pyt{
+  text-align: right;
+}
+.carpenter{
+  text-align: right;
+}
+.profile {
+  width: 70%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+
+}
+
+.contact{
+  margin-bottom: 40px;
+}
+.contact-me {
+  width: 40%;
+  margin: 20px auto;
+}
+
+.copyright {
+  margin-bottom: 0;
+}
+
+/* PICTURES */
+.top-cloud {
+  position: relative;
+  width: 320px;
+  height: 120px;
+  top: 50px;
+}
+
+
+.airport {
+  position: relative;
+  bottom: 100px;
+}
+
+.webdev {
+  width: 200px;
+  height: 200px;
+  background-image: url(img/web.jpg);
+  background-size: 100%;
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.py {
+  width: 200px;
+  height: 200px;
+  background-image: url(img/python.jpg);
+  background-size: 100%;
+  border-radius: 10%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.pilot1 {
+  width: 200px;
+  height: 200px;
+  background-image: url(img/cockpit.JPG);
+  background-size: 100%;
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.woodworks {
+  width: 200px;
+  height: 200px;
+  background-image: url(img/pantryshelf.JPEG);
+  background-size: 100%;
+  border-radius: 10%;
+  float: right;
+  margin-left: 30px;
+}
+.profpic {
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+  background-image: url(img/bike.jpg);
+  background-size: 100%;
+  float: left;
+  margin-right: 30px;
+  
+  
+}
+.elex {
+  width: 200px;
+  height: 200px;
+  background-image: url(img/electronics.jpg);
+  background-size: 100%;
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.YT1 {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.IG1 {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.linkedin {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.twitter {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.github {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tag {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+/* BUTTON */
+.btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #1746A2;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background: #5F9DF7;
+  text-decoration: none;
+}
